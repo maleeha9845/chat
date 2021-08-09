@@ -1,0 +1,26 @@
+.chat-profile-main-div{
+	width: 30px;
+	height:30px;
+	display: flex;
+  	flex-direction:row-reverse;;
+
+}
+
+.chat-profile-image{
+	height:100%;
+	width:100%;
+	border-radius: 50%;
+	object-fit: cover;
+
+}
+.chat-text-new{
+	width: 7px;
+	height:7px;
+	border-radius: 50%;
+	background: #346164;
+	display:flex-end;
+	align-self:flex-end;
+	margin: 0px;
+	position:absolute;
+	float: right;
+}

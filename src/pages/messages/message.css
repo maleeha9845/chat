@@ -1,0 +1,9 @@
+.messages-div{
+	width:91.2%;
+	height:94%;
+	background: inherit; 
+	border-color: pink;
+	border-radius: 12px;
+	display :flex;
+	flex-direction: row;
+}

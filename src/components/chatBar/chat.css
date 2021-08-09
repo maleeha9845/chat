@@ -1,0 +1,31 @@
+.message-child-1{
+	height : 98%;
+	min-width: 275px;
+	align-items: center;
+	text-align: center;
+	background: inherit;
+	border-radius: 12px;
+	padding: 10px;
+
+}
+.
+.chat-child-3{
+	width: 91%;
+	height:70px;
+	background-color:inherit;
+}
+.profile-main-div{
+	height:150px;
+	background-color: inherit;
+	width: 99%;
+	box-sizing: border-box;
+	border-bottom : 1px solid #E6EAED ;
+	display:flex;
+	flex-direction: column;
+	max-width: 100%;
+	max-height:100%;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	padding: 10px
+}
